@@ -10,6 +10,11 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
+            Program.Init();
+        }
+
+        static void Init()
+        {
             Console.WriteLine("Estou aprendendo Git");
         }
     }
