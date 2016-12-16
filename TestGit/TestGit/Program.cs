@@ -15,7 +15,7 @@ namespace TestGit
 
         static void Init()
         {
-            Console.WriteLine("Estou aprendendo Git");
+            Console.WriteLine("Estou aprendendo Git....");
         }
     }
 }
